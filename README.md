@@ -2,7 +2,7 @@
 
 ## 🛠️ Projeto Teste - Amor em Nutrir
 
-Link para visualizar o projeto: https://julianemonteiro.github.io/Consultorio-Smart/
+Link para visualizar o projeto: [https://julianemonteiro.github.io/Consultorio-Smart/](https://consultorio-smart.vercel.app/)]
 
 ## Tecnologias
 

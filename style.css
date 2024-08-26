@@ -200,6 +200,7 @@ body {
   padding: 120px 40px 70px 30px;
   border-top: 1px solid #a37809;
   font-family: var(--fonte-principal);
+  text-align: center;
 }
 
 .borda {
@@ -212,6 +213,15 @@ body {
 /*Section 4*/
 
 .container__dp {
-  height: 100vh;
+  height: 120vh;
   background-image: var(--gradient-reverse);
+}
+
+.container__depoimentos {
+  display: flex;
+  justify-content: space-around;
+}
+
+.container__depoimentos-imagem {
+  width: 300px;
 }

@@ -186,6 +186,7 @@ body {
   grid-template-columns: repeat(3, 30%);
   column-gap: 5%;
   text-align: center;
+  padding-bottom: 120px;
 }
 
 .video {
@@ -220,6 +221,7 @@ body {
 .container__depoimentos {
   display: flex;
   justify-content: space-around;
+  padding-bottom: 120px;
 }
 
 .container__depoimentos-imagem {

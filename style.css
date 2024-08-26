@@ -15,7 +15,7 @@
   --fonte-principal: "Cormorant Upright", serif;
   --fonte-secundaria: "Cinzel", sans-serif;
   --gradient: linear-gradient(to right, #fa9246, #fbc66c);
-  --gradient-reverse: linear-gradient(to left, #fa9246, #fbc66c);
+  --gradient-reverse: linear-gradient(to bottom, #21170f 0 20%, #000000 100%);
   --gradient-secundario: linear-gradient(
     to bottom,
     #000000 0 20%,
@@ -207,4 +207,11 @@ body {
   height: 150%;
   border-radius: 8px;
   border: 0.5px solid var(--amarelo-secundario);
+}
+
+/*Section 4*/
+
+.container__dp {
+  height: 100vh;
+  background-image: var(--gradient-reverse);
 }

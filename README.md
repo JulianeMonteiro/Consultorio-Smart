@@ -4,6 +4,8 @@
 
 Link para visualizar o projeto: [https://julianemonteiro.github.io/Consultorio-Smart/](https://consultorio-smart.vercel.app/)
 
+Projeto não finalizado.
+
 ## Tecnologias
 
 - HTML
